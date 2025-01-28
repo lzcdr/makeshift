@@ -1,20 +1,20 @@
 # Makeshift
 
-Makeshift is a simple library for Go that makes task automation super easy. Think of it as a lightweight alternative to Makefiles, but without all the extra complexity. It’s perfect for when you just want to define some tasks, run them from the command line, and keep things straightforward.
+Makeshift is a simple library for Go that makes task automation super easy. Think of it as a lightweight alternative to Makefiles, but without all the extra complexity. It’s perfect for when you just want to define some tasks, run them from the command line, and keep things straightforward. 🚀
 
 ## What It Does
 
 Makeshift lets you:
 
-* Define tasks in Go: Write your commands directly in your Go code.
-* Run tasks easily: Execute them from the command line with no fuss.
-* Keep it simple: No heavy build tools or complicated setups—just lightweight and easy.
+* 🛠️ Define tasks in Go: Write your commands directly in your Go code.
+* 🚀 Run tasks easily: Execute them from the command line with no fuss.
+* 🧩 Keep it simple: No heavy build tools or complicated setups—just lightweight and easy.
 
 ## Why It’s Cool
 
-* Works everywhere: Runs on any platform that supports Go.
-* Written in Go: It’s fast, reliable, and feels right at home in your Go projects.
-* Super simple: No steep learning curve—just define tasks and go!
+* ✅ Works everywhere: Runs on any platform that supports Go.
+* ⚡ Written in Go: It’s fast, reliable, and feels right at home in your Go projects.
+* 🧠 Super simple: No steep learning curve—just define tasks and go!
 
 Makeshift is for developers who want a no-nonsense way to automate tasks without dealing with the overhead of tools like Make or CMake.
     
@@ -28,7 +28,7 @@ go get github.com/lzcdr/makeshift
 
 ## Usage
 
-Defining Commands
+## Defining Commands
 To define commands, embed the Task struct in your own struct. Each method you define on that struct corresponds to a command that can be executed.
 ### File "./example/make/make.go":
 
